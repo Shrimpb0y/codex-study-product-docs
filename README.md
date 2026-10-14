@@ -6,6 +6,7 @@ Codex 答题卡式教学 UI 与交互扩展的需求文档，首个应用场景�
 
 ## 文档
 
+- [产品采访文档](./Product/documentationForProduct/README.md)
 - [项目文档总结](./PROJECT_SUMMARY.md)
 - [SRS 软件需求规格说明书 v1.0](./codex-study-ui-srs.md)
 - [交互需求与可行性讨论稿 v2.2](./skill-study-interaction-feasibility.md)
